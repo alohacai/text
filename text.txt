@@ -5,6 +5,5 @@ text4
 text5
 text8
 text9
-=======
 3
 3
