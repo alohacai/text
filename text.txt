@@ -3,5 +3,10 @@ text2
 text3
 text4
 text5
+<<<<<<< HEAD
 text8
 text9
+=======
+3
+3
+>>>>>>> feature1
